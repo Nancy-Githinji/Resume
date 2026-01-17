@@ -11,7 +11,8 @@ This repository contains a one-page dark themed resume built using HTML and CSS.
 
 ## Live Demo
 
-https://nancy-githinji.github.io/resume/
+My site is live at https://nancy-githinji.github.io/Resume/
+
 
 ## Files
 
